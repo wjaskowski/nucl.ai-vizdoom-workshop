@@ -22,7 +22,7 @@
     - Record the game in low-resolution settings and replay it in high-resolution ([examples/python/record_episodes.py](https://github.com/Marqt/ViZDoom/blob/master/examples/python/record_episodes.py))
   1. Play the [examples/python/cig_bots.py](https://github.com/Marqt/ViZDoom/blob/master/examples/python/cig_bots.py) to get the feeling of the [CIG 2016 ViZDoom Competition](http://vizdoom.cs.put.edu.pl/competition-cig-2016)
 
-## Task 2: Teach your agent to play a basic scenario. 
+## Task 2: Teach your agent to play a basic scenario
   1. Clone this repo
   1. Copy (or make symlinks), so that the system sees ``vizdoom.so`` and the ``vizdoom`` executable, e.g.:
 ```
