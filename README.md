@@ -1,4 +1,4 @@
-# nucl.ai Hands-On Deep Q-Learning in Doom Workshop 
+# nucl.ai 2016 Hands-On Deep Q-Learning in Doom Workshop 
 
 ## Prerequisites
  * Python 2.7
